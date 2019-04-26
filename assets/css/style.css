@@ -1,0 +1,25 @@
+.crystals {
+    background-color: cornflowerblue;
+    float: right;
+}
+
+.jumbotron {
+    background-color: bisque;
+}
+
+.current-score{
+    align-items: center;
+}
+
+.row-eq-height {
+    margin-left: 0;
+    display: flex;
+}
+
+.current-score {
+    float: left;
+}
+
+body {
+    background-color: cornflowerblue;
+}
